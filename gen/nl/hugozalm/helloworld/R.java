@@ -5,7 +5,7 @@
  * should not be modified by hand.
  */
 
-package nl.hugozalm.rssreader;
+package nl.hugozalm.helloworld;
 
 public final class R {
     public static final class attr {

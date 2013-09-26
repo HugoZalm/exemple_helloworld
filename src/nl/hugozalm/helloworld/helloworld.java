@@ -1,4 +1,4 @@
-package nl.hugozalm.rssreader;
+package nl.hugozalm.helloworld;
 /*
        Licensed to the Apache Software Foundation (ASF) under one
        or more contributor license agreements.  See the NOTICE file
@@ -21,7 +21,7 @@ package nl.hugozalm.rssreader;
 import android.os.Bundle;
 import org.apache.cordova.*;
 
-public class rssreader extends DroidGap
+public class helloworld extends DroidGap
 {
     @Override
     public void onCreate(Bundle savedInstanceState)

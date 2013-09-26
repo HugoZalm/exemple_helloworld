@@ -1,0 +1,5 @@
+Projectname > refactor > rename
+src > nl.hugozalm.helloworld > refactor > rename (antwoord ja op alle volgende vragen)
+src > nl.hugozalm.helloworld > helloworld.java > refactor > rename (antwoord ja op alle volgende vragen)
+AndroidManifest: hernoem helloworld in <activity android:name="helloworld"
+res > values > strings.xml: hernoem helloworld in <string name="app_name">helloworld
