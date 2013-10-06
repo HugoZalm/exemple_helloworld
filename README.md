@@ -10,11 +10,11 @@ Copy this repository:
 
 git clone --bare https://github.com/HugoZalm/exemple_helloworld.git
 
-cd old-repository.git
+cd exemple_helloworld.git
 
-git push --mirror https://github.com/exampleuser/new-repository.git
+git push --mirror https://github.com/HugoZalm/new-repository.git
 
 cd ..
 
-rm -rf old-repository.git
+rm -rf exemple_helloworld.git
 
